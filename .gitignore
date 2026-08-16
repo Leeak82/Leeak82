@@ -2,6 +2,7 @@ node_modules/
 dist/
 dist-ssr/
 *.local
+*.tsbuildinfo
 npm-debug.log*
 .DS_Store
 .vite/
