@@ -4,6 +4,8 @@ Self-taught developer building practical software around automation, automotive 
 
 I learn by building real projects end to end: frontend, backend, databases, APIs, deployment, mobile wrappers, automation, testing, and the inevitable debugging sessions caused by computers behaving exactly as instructed.
 
+> **Developer reviewing my work?** Start with the [casual project tour](PROJECT_TOUR.md). It explains what I built, what is still experimental, and the kind of feedback I'm actually looking for.
+
 ## Selected Projects
 
 | Project | What it is | Stack / focus |
